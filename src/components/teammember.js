@@ -11,8 +11,6 @@ import amritya from "../images/amritya.jpeg"
 import twotter from "../images/twitter.png"
 import github from "../images/github.png"
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import '../util/font-awesome';
 
 
 

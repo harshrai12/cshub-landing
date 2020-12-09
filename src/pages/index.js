@@ -1,13 +1,12 @@
 import React from "react"
-import Layout from "../components/layout"
+
 import SEO from "../components/seo"
 import Header from "../components/header"
 import discord from"../images/kisspng-discord-computer-icons-logo-online-chat-discord-5b2291673db518.4803332115289921032528.png"
 import instagram from "../images/logo-ig-instagram-new-logo-vector-download-13.png"
 import bird from "../images/twitter-bird-symbols-png-logo-0.png"
 
-import logo from "../images/CSCODERSHUB3.png"
-import BackgroundImage from "gatsby-background-image"
+
 import { graphql } from "gatsby"
 import Team from "../components/teammember"
 
@@ -29,11 +28,11 @@ const Home = props => (
       </a>
       <div class="icons_connect">
       <a href= "https://discord.com/invite/K5K9Yaz" className="button1">
-      <img src={discord} className="dlogo"/>
+      <img src={discord} className="dlogo" alt="lgog"/>
       </a><a href= "http://instagram.com/cscodershub" className="button1">
-      <img src={instagram} className="dlogo"/>
+      <img src={instagram} className="dlogo" alt="lgog"/>
       </a><a href= "http://twitter.com/cscodershub" className="button1">
-      <img src={bird} className="dlogo"/>
+      <img src={bird} className="dlogo" alt="lgog"/>
       </a>
       </div>
     </div>
