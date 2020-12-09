@@ -27,7 +27,7 @@ const Header = props => {
               <NavItem>
                 <NavLink>
                   {" "}
-                  <Link to="https://cscodershub.netlify.app/">Blog</Link>
+                  <Link to="https://cscodershub-blog.netlify.app/">Blog</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
