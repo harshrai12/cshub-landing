@@ -5,6 +5,7 @@ import Header from "../components/header"
 import discord from"../images/kisspng-discord-computer-icons-logo-online-chat-discord-5b2291673db518.4803332115289921032528.png"
 import instagram from "../images/logo-ig-instagram-new-logo-vector-download-13.png"
 import bird from "../images/twitter-bird-symbols-png-logo-0.png"
+import DogVideo from "../images/Intro_video.mp4"
 
 
 import { graphql } from "gatsby"
@@ -14,6 +15,16 @@ const Home = props => (
   <div>
     <Header />
     <SEO title="About" />
+    <video
+    className="video-player"
+    
+                  
+                  loop
+                  muted
+                  autoPlay>
+    
+    <source src={DogVideo} type="video/mp4" />
+  </video>
    
     {/** 
  <div className="front">
