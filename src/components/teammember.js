@@ -63,24 +63,28 @@ function teammember() {
     <a href="https://www.github.com/defalt007/"> <img src={github} alt="" className="icon"/></a>
    
 </div>
-</div> <div className="teams">
-<img src={suraj} alt=""/>
-<div className="name">Suraj Shaw</div>
-<div className="desig">Content Manager</div>
-<div className="about"></div>
+</div>
+<div class="teams">
+<img src={adi} alt=""/>
+<div className="name">Aditya chatterjee</div>
+<div className="desig">Event Manager</div>
+<div className="about"> </div>
 
-    <div className="social-links">
-    <a href="https://www.linkedin.com/in/shawsuraj/"> <img src={linkedin} alt="" className="icon" /></a>
-    <a href="https://twitter.com/shawsurajss"> <img src={twotter} alt="" className="icon"/></a>
-    <a href="https://github.com/shawsuraj"> <img src={github} alt="" className="icon"/></a>
+<div className="social-links">
+    <a href="https://www.linkedin.com/in/aditya-c-840480140"> <img src={linkedin} alt="" className="icon" /></a>
+    <a href="https://twitter.com/X__amaterasu__X?s=08"> <img src={twotter} alt="" className="icon"/></a>
+    <a href="https://github.com/adi1506"> <img src={github} alt="" className="icon"/></a>
    
 </div>
 </div>
+ 
+
+
    </div>
    <div className="sub-container"><div className="teams">
    <img src={amritya} alt=""/>
    <div className="name">Amritya Vaibhav Dembla</div>
-   <div className="desig">Security Analysist</div>
+   <div className="desig">Content Manager</div>
    <div className="about"> </div>
 
        <div className="social-links">
@@ -107,20 +111,21 @@ function teammember() {
            </div>
        </div>
        <div class="teams">
-   <img src={adi} alt=""/>
-   <div className="name">Aditya chatterjee</div>
-   <div className="desig"> Web Developer</div>
-   <div className="about"> </div>
+       <img src={Devasnh} alt=""/>
+       <div className="name">Devansh Nigam</div>
+       <div className="desig">Social Media Manager</div>
+     <div className="about"></div>
 
-   <div className="social-links">
-       <a href="https://www.linkedin.com/in/aditya-c-840480140"> <img src={linkedin} alt="" className="icon" /></a>
-       <a href="https://twitter.com/X__amaterasu__X?s=08"> <img src={twotter} alt="" className="icon"/></a>
-       <a href="https://github.com/adi1506"> <img src={github} alt="" className="icon"/></a>
-      
+           <div className="social-links">
+           <a href="https://www.linkedin.com/in/devansh-nigam-5780761b3"> <img src={linkedin} alt="" className="icon" /></a>
+           <a href="https://www.linkedin.com/in/devansh-nigam-5780761b3"> <img src={twotter} alt="" className="icon"/></a>
+           <a href="https://github.com/devansh0605"> <img src={github} alt="" className="icon"/></a>
+          
+       </div>
    </div>
-</div>
-    
 
+
+      
       
       
 
@@ -140,23 +145,24 @@ function teammember() {
       
    </div>
 </div>
+<div className="teams">
+<img src={suraj} alt=""/>
+<div className="name">Suraj Shaw</div>
+<div className="desig">Content Writer</div>
+<div className="about"></div>
+
+    <div className="social-links">
+    <a href="https://www.linkedin.com/in/shawsuraj/"> <img src={linkedin} alt="" className="icon" /></a>
+    <a href="https://twitter.com/shawsurajss"> <img src={twotter} alt="" className="icon"/></a>
+    <a href="https://github.com/shawsuraj"> <img src={github} alt="" className="icon"/></a>
+   
+</div>
+</div>
 
    
 
        
-       <div class="teams">
-       <img src={Devasnh} alt=""/>
-       <div className="name">Devansh Nigam</div>
-       <div className="desig">Social Media Manager</div>
-     <div className="about"></div>
-
-           <div className="social-links">
-           <a href="https://www.linkedin.com/in/devansh-nigam-5780761b3"> <img src={linkedin} alt="" className="icon" /></a>
-           <a href="https://www.linkedin.com/in/devansh-nigam-5780761b3"> <img src={twotter} alt="" className="icon"/></a>
-           <a href="https://github.com/devansh0605"> <img src={github} alt="" className="icon"/></a>
-          
-       </div>
-   </div>
+       
    </div>
 
 </div>

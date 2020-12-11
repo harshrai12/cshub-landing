@@ -26,14 +26,19 @@ h1 {
   color: ghostwhite;
 }
 .navbar {
-  background-color: rgb(32, 32, 32);
+  background-color: rgb(52, 52, 52);
   // border-right: 1px solid rgba(0, 0, 0, 0.4);
   // border-left: 1px solid rgba(0, 0, 0, 0.4);
   border-bottom: 1px solid rgba(0, 0, 0, 0.4);
   line-height: 1;
 }
+
+.navbar-toggler{
+  background-color: #3e3e3e;
+  color: #00ff48;
+}
 .navbar-light .navbar-nav .nav-link,
-.navbar-light .navbar-brand {
+.navbar-light .navbar-brand  {
   color: #089800;
   &:hover {
     color: #00ff48;

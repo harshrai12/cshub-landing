@@ -18,18 +18,13 @@ const Header = props => {
 
   return (
     <div>
-      <Navbar color="Light" light expand="md" fixed="top">
+    
+      <Navbar color="Dark" light expand="md" fixed="top">
         <div className="container">
           <NavbarBrand href="/">CSCODERSHUB</NavbarBrand>
-          <NavbarToggler onClick={toggle} />
+          <NavbarToggler color="light" onClick={toggle} />
           <Collapse isOpen={isOpen} navbar>
             <Nav className="ml-auto" navbar>
-              <NavItem>
-                <NavLink>
-                  {" "}
-                  <Link to="https://cscodershub-blog.netlify.app/">Blog</Link>
-                </NavLink>
-              </NavItem>
               <NavItem>
                 <NavLink>
                   <Link to="/about">About</Link>
