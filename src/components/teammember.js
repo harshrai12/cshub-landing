@@ -54,7 +54,7 @@ function teammember() {
 <div className="teams">
 <img src={mudit} alt=""/>
 <div className="name">Mudit Bansal</div>
-<div className="desig">Discord Manager</div>
+<div className="desig">Community moderator</div>
 <div className="about"></div>
 
     <div className="social-links">
@@ -145,19 +145,7 @@ function teammember() {
       
    </div>
 </div>
-<div className="teams">
-<img src={suraj} alt=""/>
-<div className="name">Suraj Shaw</div>
-<div className="desig">Content Writer</div>
-<div className="about"></div>
 
-    <div className="social-links">
-    <a href="https://www.linkedin.com/in/shawsuraj/"> <img src={linkedin} alt="" className="icon" /></a>
-    <a href="https://twitter.com/shawsurajss"> <img src={twotter} alt="" className="icon"/></a>
-    <a href="https://github.com/shawsuraj"> <img src={github} alt="" className="icon"/></a>
-   
-</div>
-</div>
 
    
 
