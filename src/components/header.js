@@ -37,6 +37,11 @@ const Header = props => {
               </NavItem>
               <NavItem>
                 <NavLink>
+                  <Link to="/event">Events</Link>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink>
                   <Link to="/teams">Teams</Link>
                 </NavLink>
               </NavItem>
