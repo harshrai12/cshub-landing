@@ -5,7 +5,7 @@ import Header from "../components/header"
 import discord from"../images/kisspng-discord-computer-icons-logo-online-chat-discord-5b2291673db518.4803332115289921032528.png"
 import instagram from "../images/logo-ig-instagram-new-logo-vector-download-13.png"
 import bird from "../images/twitter-bird-symbols-png-logo-0.png"
-import DogVideo from "../images/edit ( 720 X 1280 ).mp4"
+import DogVideo from "../images/Elevate your gaming experience.mp4"
 
 
 import { graphql } from "gatsby"
