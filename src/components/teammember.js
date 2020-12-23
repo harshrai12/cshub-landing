@@ -11,7 +11,7 @@ import Devasnh from "../images/devansh.jpeg"
 import amritya from "../images/amritya.jpeg"
 import twotter from "../images/twitter.png"
 import github from "../images/github.png"
-import abhay from "../images/abhay chopra.jpeg"
+import divya from "../images/divya.jpeg"
 
 
 
@@ -133,15 +133,15 @@ function teammember() {
    </div>
    <div className="sub-container">
    <div class="teams">
-   <img src={abhay} alt=""/>
-   <div className="name">Abhay Chopra</div>
+   <img src={divya} alt=""/>
+   <div className="name">Divya Bohra</div>
    <div className="desig">Graphics Designer</div>
  <div className="about"></div>
 
        <div className="social-links">
-       <a href="https://www.linkedin.com/in/theabhaychopra/"> <img src={linkedin} alt="" className="icon" /></a>
-       <a href="https://twitter.com/theabhaychopra"> <img src={twotter} alt="" className="icon"/></a>
-       <a href="https://github.com/theabhaychopra"> <img src={github} alt="" className="icon"/></a>
+       <a href="https://www.linkedin.com/in/divya-bohra-b54742172"> <img src={linkedin} alt="" className="icon" /></a>
+       <a href=""> <img src={twotter} alt="" className="icon"/></a>
+       <a href=""> <img src={github} alt="" className="icon"/></a>
       
    </div>
 </div>

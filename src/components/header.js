@@ -27,22 +27,22 @@ const Header = props => {
             <Nav className="ml-auto" navbar>
               <NavItem>
                 <NavLink>
-                  <Link to="/about">About</Link>
+                <Link to="/">Home</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink>
-                  <Link to="/">Home</Link>
+                <Link to="/event">Troll-CAT CTF</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink>
-                  <Link to="/event">Events</Link>
+                <Link to="/teams">Teams</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink>
-                  <Link to="/teams">Teams</Link>
+                <Link to="/about">About</Link>
                 </NavLink>
               </NavItem>
             </Nav>
