@@ -2,6 +2,7 @@ import React from 'react'
 
 import background from "../images/Elevate your gaming experience.mp4"
 import Header from "../components/header"
+import broshure from "../images/Sponsorship proposal TrollCAT CTF CSCODERSHUB (1).pdf"
 
 
 import ctf from '../images/CTFlogo.png'
@@ -32,7 +33,9 @@ function event() {
   <Col ><p className="collaboration">In Collaboration with</p></Col>
   <Col ><img src={cs2} alt="" className="sponser"/></Col>
 </Row> 
-<div className="soonbg"><p className="soon">DETAILS WILL BE ANNOUNCED SOON</p></div>
+<div className="soonbg"><p className="soon"><ul><li>Date: February 6th & 7th, 2021
+</li>
+<li>Time: 12 PM - 6PM</li><li></li></ul></p></div>
 
   
  
@@ -51,6 +54,7 @@ function event() {
   
   <source src={background} type="video/mp4" />
 </video>
+ 
 
   </div>
    
