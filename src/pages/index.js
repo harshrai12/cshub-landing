@@ -1,4 +1,5 @@
 import React from "react"
+import ctf from '../images/CTFlogo.png'
 
 import SEO from "../components/seo"
 import Header from "../components/header"
@@ -6,6 +7,7 @@ import discord from"../images/kisspng-discord-computer-icons-logo-online-chat-di
 import instagram from "../images/logo-ig-instagram-new-logo-vector-download-13.png"
 import bird from "../images/twitter-bird-symbols-png-logo-0.png"
 import DogVideo from "../images/Elevate your gaming experience.mp4"
+import Countdown from 'react-countdown';
 
 
 import { graphql } from "gatsby"
@@ -34,6 +36,13 @@ const Home = props => (
     <p class="line anim-typewriter">CSCODERSHUB</p>
     <div className="text">
       <p>Community of coders and hackers</p>
+      <div className="ctflogoindex">
+  <img src={ctf} alt=""/></div>
+      <div className="counter">
+
+      <Countdown date={Date.now() + 3110400000} />
+      </div>
+      
       <a href= "https://discord.com/invite/K5K9Yaz" className="button1">
      Connect with us
       </a>
@@ -47,6 +56,7 @@ const Home = props => (
       </a>
       </div>
     </div>
+    
 
     <div className="abouts-section">
       <h1>About CSCODERSHUB</h1>

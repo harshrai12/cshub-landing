@@ -1,3 +1,7 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
 .container#content {
   margin-top: 60px;
 }
@@ -144,6 +148,11 @@ ul {
   width: 60%;
   filter: drop-shadow(0 0 0.75rem rgb(255, 239, 12));
 }
+.ctflogoindex img {
+  position: relative;
+  width: 25%;
+  filter: drop-shadow(0 0 0.75rem rgb(255, 239, 12));
+}
 
 .soon {
   background-color: yellow;
@@ -166,6 +175,15 @@ ul {
 .collaboration {
   margin-top: 10%;
 }
+
+.counter {
+  
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 2px 2px 10px
+    rgb(3, 137, 255);
+}
+
+
 .text {
   position: relative;
   top: -520px;
@@ -300,6 +318,11 @@ ul {
   }
 
   .ctflogo img {
+    position: relative;
+    width: 96%;
+    filter: drop-shadow(0 0 0.75rem rgb(255, 239, 12));
+  }
+  .ctflogoindex img {
     position: relative;
     width: 96%;
     filter: drop-shadow(0 0 0.75rem rgb(255, 239, 12));
