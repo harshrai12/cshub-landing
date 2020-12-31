@@ -350,3 +350,10 @@ ul {
     filter: drop-shadow(0 0 0.75rem rgb(255, 239, 12));
   }
 }
+
+@media (max-width: 400px){
+  .line {
+    font-size: 26px;
+  }
+
+}
