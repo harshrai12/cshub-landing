@@ -33,9 +33,13 @@ function event() {
   <Col ><p className="collaboration">In Collaboration with</p></Col>
   <Col ><img src={cs2} alt="" className="sponser"/></Col>
 </Row> 
-<div className="soonbg"><p className="soon"><ul><li>Date: February 6th & 7th, 2021
+<div className="soonbg"><p className="soon"><ul>
+<li>CTF registration starting Soon</li>
+<li>Date: February 6th & 7th, 2021
 </li>
-<li>Time: 12 PM - 6PM</li><li></li></ul></p></div>
+<li>24 hour live CTF Challenge with security conference</li>
+
+</ul></p></div>
 
   
  

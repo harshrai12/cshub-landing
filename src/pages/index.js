@@ -1,5 +1,6 @@
 import React from "react"
 import ctf from '../images/CTFlogo.png'
+import cslogo from "../images/CSCODERSHUB3.png"
 
 import SEO from "../components/seo"
 import Header from "../components/header"
@@ -33,15 +34,9 @@ const Home = props => (
       <img src={logo} className="front" alt="dp" />
     </div> 
 **/}
-    <p class="line anim-typewriter">CSCODERSHUB</p>
+<span className="ctflogoindex"><p class="line anim-typewriter"><img src={cslogo} alt=""/>CSCODERSHUB</p></span>
     <div className="text">
       <p>Community of coders and hackers</p>
-      <div className="ctflogoindex">
-  <img src={ctf} alt=""/></div>
-      <div className="counter">
-
-      <Countdown date={Date.now() + 3110400000} />
-      </div>
       
       <a href= "https://discord.com/invite/K5K9Yaz" className="button1">
      Connect with us
@@ -59,10 +54,16 @@ const Home = props => (
     
 
     <div className="abouts-section">
-      <h1>About CSCODERSHUB</h1>
+      <h1>About TrollCAT-CTF</h1>
       <p className="about-text">
-      CSCODERSHUB is a community of coders and cyber security enthusiasts, here we believe in sharing/discussing our knowledge with other members for enhancement and learning. We provide free guidance to beginners of the community. CSCODERSHUB team consists of hardworking and focused members who are ready to serve for the community without any personal benefit. We are dedicated towards building a community which can provide opportunity to members (beginners) to learn more about new technologies for free of cost.
-      Anyone can Join Us as a member or as a team. for more details contact <a href="cscodershub@gmail.com">cscodershub@gmail.com</a> 
+      TrollCAT CTF is a two-day event for all those cybersecurity enthusiasts who wish to enhance their knowledge and skills in cybersecurity with a fun journey. An event filled with symposium & challenges.
+
+      Day 01 will be a complete beginner-oriented 24 hours Jeopardy based CTF challenge. Lone wolves will be allowed to participate in the challenge. Categories shortlisted for TrollCAT CTF:
+      <ul className="ctfsubs">
+      <li className="ctfsubs">Day 01 will be a complete beginner-oriented 24 hours Jeopardy based CTF challenge. Lone wolves will be allowed to participate in the challenge. Categories shortlisted for TrollCAT CTF:</li>
+      <li className="ctfsubs">Day 02 will be the symposium, wherein speakers from relevant industry will interact with cybersecurity enthusiasts, filled with various talks, & discussions.</li>
+      </ul>
+    
       </p>
       <Team/>
     </div>
