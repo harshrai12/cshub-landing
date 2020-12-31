@@ -35,10 +35,12 @@ const Header = props => {
                 <NavLink>
                 <Link to="https://ctf.cscodershub.tech/">CTF</Link>
                 </NavLink>
+                </NavItem>
+                <NavItem>
                 <NavLink>
                 <Link to="/event">Event</Link>
                 </NavLink>
-              </NavItem>
+                </NavItem>
               <NavItem>
                 <NavLink>
                 <Link to="/teams">Team page</Link>

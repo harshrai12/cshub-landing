@@ -40,6 +40,12 @@ function event() {
 <li>24 hour live CTF Challenge with security conference</li>
 
 </ul></p></div>
+<Row>
+<Col ><a href=" https://docs.google.com/forms/d/e/1FAIpQLSfDJtK76R9n6Jn5wkagcvhOxNd4ZBnUYSXsuRHq8plM8v-peA/viewform" ><p className="link">Conference Registration link</p></a></Col>
+<Col ><a href="https://docs.google.com/forms/d/1Vksndp_x3wAen8nTtwPFrORsKF0JTK-IKvfBxI-ymUg/viewform?edit_requested=true " ><p className="link">Event Ambassadors link</p></a></Col>
+
+</Row> 
+
 
   
  
