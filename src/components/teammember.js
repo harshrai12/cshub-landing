@@ -123,15 +123,6 @@ function teammember() {
           
        </div>
    </div>
-
-
-      
-      
-      
-
-      
-   </div>
-   <div className="sub-container">
    <div class="teams">
    <img src={divya} alt=""/>
    <div className="name">Divya Bohra</div>
@@ -145,6 +136,16 @@ function teammember() {
       
    </div>
 </div>
+
+
+      
+      
+      
+
+      
+   </div>
+   <div className="sub-container">
+  
 
 
    

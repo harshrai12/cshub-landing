@@ -8,7 +8,7 @@ import discord from"../images/kisspng-discord-computer-icons-logo-online-chat-di
 import instagram from "../images/logo-ig-instagram-new-logo-vector-download-13.png"
 import bird from "../images/twitter-bird-symbols-png-logo-0.png"
 import DogVideo from "../images/Elevate your gaming experience.mp4"
-import Countdown from 'react-countdown';
+
 
 
 import { graphql } from "gatsby"
