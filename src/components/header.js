@@ -43,7 +43,7 @@ const Header = props => {
                 </NavItem>
               <NavItem>
                 <NavLink>
-                <Link to="/teams">Team page</Link>
+                <Link to="/teams">Team</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
