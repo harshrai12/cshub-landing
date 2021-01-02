@@ -3,6 +3,7 @@ import React from 'react'
 import background from "../images/Elevate your gaming experience.mp4"
 import Header from "../components/header"
 import broshure from "../images/Sponsorship proposal TrollCAT CTF CSCODERSHUB (1).pdf"
+import Button from 'react-bootstrap/Button';
 
 
 import ctf from '../images/CTFlogo.png'
@@ -41,8 +42,9 @@ function event() {
 
 </ul></p></div>
 <Row>
-<Col ><a href=" https://docs.google.com/forms/d/e/1FAIpQLSfDJtK76R9n6Jn5wkagcvhOxNd4ZBnUYSXsuRHq8plM8v-peA/viewform" ><p className="link">Conference Registration link</p></a></Col>
-<Col ><a href="https://docs.google.com/forms/d/1Vksndp_x3wAen8nTtwPFrORsKF0JTK-IKvfBxI-ymUg/viewform?edit_requested=true " ><p className="link">Event Ambassadors link</p></a></Col>
+<Col ><a href=" https://docs.google.com/forms/d/e/1FAIpQLSfDJtK76R9n6Jn5wkagcvhOxNd4ZBnUYSXsuRHq8plM8v-peA/viewform" ><p className="link">
+<Button variant="success">Conference Registration link</Button></p></a></Col>
+<Col ><a href="https://docs.google.com/forms/d/1Vksndp_x3wAen8nTtwPFrORsKF0JTK-IKvfBxI-ymUg/viewform?edit_requested=true " ><p className="link">  <Button variant="success">Event Ambassadors link</Button></p></a></Col>
 
 </Row> 
 
