@@ -2,7 +2,6 @@ import React from "react"
 import ctf from '../images/CTFlogo.png'
 import cslogo from "../images/CSCODERSHUB3.png"
 
-import SEO from "../components/seo"
 import Header from "../components/header"
 import discord from"../images/kisspng-discord-computer-icons-logo-online-chat-discord-5b2291673db518.4803332115289921032528.png"
 import instagram from "../images/logo-ig-instagram-new-logo-vector-download-13.png"
@@ -17,7 +16,7 @@ import Team from "../components/teammember"
 const Home = props => (
   <div>
     <Header />
-    <SEO title="About" />
+    
     <video
     className="video-player"
     
