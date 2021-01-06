@@ -58,7 +58,7 @@ const Home = props => (
       <p className="about-text">
       TrollCAT CTF is a two-day event for all those cybersecurity enthusiasts who wish to enhance their knowledge and skills in cybersecurity with a fun journey. An event filled with symposium & challenges.
 
-      Day 01 will be a complete beginner-oriented 24 hours Jeopardy based CTF challenge. Lone wolves will be allowed to participate in the challenge. 
+      Day 01 will be a complete beginner-oriented 12 hours Jeopardy based CTF challenge. Lone wolves will be allowed to participate in the challenge. 
       <ul className="ctfsubs">
       <li className="ctfsubs">Day 01 will be a complete beginner-oriented 24 hours Jeopardy based CTF challenge. Lone wolves will be allowed to participate in the challenge. Categories shortlisted for TrollCAT CTF:</li>
       <li className="ctfsubs">Day 02 will be the symposium, wherein speakers from relevant industry will interact with cybersecurity enthusiasts, filled with various talks, & discussions.</li>

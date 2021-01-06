@@ -38,7 +38,7 @@ function event() {
 <li>CTF registration</li>
 <li>Date: February 6th & 7th, 2021
 </li>
-<li>24 hour live CTF Challenge with security conference</li>
+<li>12 hour live CTF Challenge with security conference</li>
 
 </ul></p></div>
 <Row>
