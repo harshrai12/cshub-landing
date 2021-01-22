@@ -35,7 +35,7 @@ const Home = props => (
 **/}
 <span className="ctflogoindex"><p class="line anim-typewriter"><img src={cslogo} alt=""/>CSCODERSHUB</p></span>
     <div className="text">
-      <p>Community of coders and cybersecurity Nerds</p>
+      <p>Community of Coders and Cybersecurity Nerds</p>
       
       <a href= "https://discord.com/invite/K5K9Yaz" className="button1">
      Connect with us
