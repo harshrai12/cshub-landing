@@ -60,6 +60,7 @@ const Home = props => (
       
       <ul className="ctfsubs">
       <li className="ctfsubs">Day 01 will be a complete beginner-oriented 12 hours Jeopardy based CTF challenge.</li>
+      <h1 className="hidden-text"> y0uh4v3b33nTroll3d</h1>
       <li className="ctfsubs">Day 02 will be the symposium, wherein speakers from relevant industry will interact with cybersecurity enthusiasts, filled with various talks, & discussions.</li>
       </ul>
     
