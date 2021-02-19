@@ -31,11 +31,7 @@ const Header = props => {
                 <Link to="/">Home</Link>
                 </NavLink>
               </NavItem>
-                <NavItem>
-                <NavLink>
-                <Link to="https://ctf.cscodershub.tech/">CTF Event</Link>
-                </NavLink>
-                </NavItem>
+               
               <NavItem>
                 <NavLink>
                 <Link to="/teams">Team</Link>
