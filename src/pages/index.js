@@ -51,19 +51,10 @@ const Home = props => (
       </div>
     </div>
     
-
     <div className="abouts-section">
-      <h1>About TrollCAT-CTF</h1>
+      <h1>About CSCODERSHUB</h1>
       <p className="about-text">
-      TrollCAT CTF is a two-day event for all those cybersecurity enthusiasts who wish to enhance their knowledge and skills in cybersecurity with a fun journey. An event filled with symposium & challenges.
-
-      
-      <ul className="ctfsubs">
-      <li className="ctfsubs">Day 01 will be a complete beginner-oriented 12 hours Jeopardy based CTF challenge.</li>
-      <h1 className="hidden-text">Tr0llingTr0lling</h1>
-      <li className="ctfsubs">Day 02 will be the symposium, wherein speakers from relevant industry will interact with cybersecurity enthusiasts, filled with various talks, & discussions.</li>
-      </ul>
-    
+      CSCODERSHUB is a community of coders and cyber security enthusiasts, here we believe in sharing/discussing our knowledge with other members for enhancement and learning. We provide free guidance to beginners of the community. CSCODERSHUB team consists of hardworking and focused members who are ready to serve for the community without any personal benefit. We are dedicated towards building a community which can provide opportunity to members (beginners) to learn more about new technologies for free of cost.
       </p>
       <Team/>
     </div>
