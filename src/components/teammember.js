@@ -81,19 +81,7 @@ function teammember() {
 
 
    </div>
-   <div className="sub-container"><div className="teams">
-   <img src={amritya} alt=""/>
-   <div className="name">Amritya Vaibhav Dembla</div>
-   <div className="desig">Content Manager</div>
-   <div className="about"> </div>
-
-       <div className="social-links">
-       <a href="https://www.linkedin.com/in/amritya-vaibhav-dembla/"> <img src={linkedin} alt="" className="icon" /></a>
-       <a href="#"> <img src={twotter} alt="" className="icon"/></a>
-       <a href="https://www.github.com/Dboidembla/"> <img src={github} alt="" className="icon"/></a>
-      
-   </div>
-</div>
+   <div className="sub-container">
   
       
 
@@ -123,19 +111,7 @@ function teammember() {
           
        </div>
    </div>
-   <div class="teams">
-   <img src={divya} alt=""/>
-   <div className="name">Divya Bohra</div>
-   <div className="desig">Graphics Designer</div>
- <div className="about"></div>
-
-       <div className="social-links">
-       <a href="https://www.linkedin.com/in/divya-bohra-b54742172"> <img src={linkedin} alt="" className="icon" /></a>
-       <a href=""> <img src={twotter} alt="" className="icon"/></a>
-       <a href=""> <img src={github} alt="" className="icon"/></a>
-      
-   </div>
-</div>
+ 
 
 
       
